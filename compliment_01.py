@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Stephanie Slusser
+# DATE: 10/01/2025
+# BRIEF DESCRIPTION: Compliment generator
 
 
 
@@ -14,7 +14,10 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
+user = input('Would you like a compliment? ')
+if (user == 'yes'):
+    print('You have wonderful eyes.')
+print('Thank you for playing.')
 
 
 
@@ -66,12 +69,13 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+I'd give it a 4 at best.
 
 
 
 2. What was the hardest part of this lab?
-
+I've been so conditioned to do the def main() thing that I immediately tried to do that. (it did not work.)
+Once I got off that idea, it was actually pretty simple.
 
 
 
